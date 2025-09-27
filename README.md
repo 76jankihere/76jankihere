@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jankiben Parmar</h1>
-<h3 align="center">Software Engineer (AI + Cloud) • Prompt Engineering • Ex-Professor</h3>
+<h3 align="center">Software Engineer (AI + Cloud) • Ex-Professor in computer science</h3>
 
 <p align="center">
   <a href="mailto:jankiparmar357@outlook.com">Email</a> •
