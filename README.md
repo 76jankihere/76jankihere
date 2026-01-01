@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Highlight Projects
+##  Highlight Projects
 - **AI Chat Assistant** — Stream Chat + OpenAI assistant with live web search  
   _One agent per channel, auto-cleanup to reduce cost; hardened Node/Express API; React + TS UI._  
   **Demo:** https://ai-chat-assistant-1-sct6.onrender.com • **Code:** https://github.com/76jankihere/ai-chat-app-with-agents-getstream
