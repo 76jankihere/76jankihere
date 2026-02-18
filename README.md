@@ -29,21 +29,7 @@ const janki = {
 
 ---
 
-## 🎭 The Plot Twist: From Professor to Production
 
-Most people pick **either** teaching **or** building. I chose **both**.
-
-**The Journey:**
-```mermaid
-graph LR
-    A[👩‍🏫 Assistant Professor] -->|Plot Twist| B[💻 Software Engineer]
-    B -->|AI Revolution| C[🤖 AI/ML Specialist]
-    C -->|Next Chapter| D[🎓 PhD Aspirant]
-    style A fill:#e1f5ff
-    style B fill:#ffe1e1
-    style C fill:#e1ffe1
-    style D fill:#ffe1ff
-```
 
 **Translation:** I've taught Computer Science to 1000+ students **AND** shipped code that eliminated **1 MILLION errors per month**. Not many people can say that.
 
