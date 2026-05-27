@@ -14,17 +14,6 @@
 <a href="mailto:jankiparmar357@outlook.com"><img src="https://img.shields.io/badge/📧_Email-Let's_Chat-EA4335?style=for-the-badge" /></a>
 <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge" /></a>
 <a href="https://github.com/76jankihere"><img src="https://img.shields.io/badge/⚡_GitHub-Follow-181717?style=for-the-badge" /></a>
-
-```typescript
-const janki = {
-    location: "🗺️ Dayton, Ohio → Ready to relocate anywhere in USA",
-    currentMission: "🚀 Turning AI dreams into production reality",
-    superpower: "🎨 Building systems that don't just work—they WOW",
-    secretWeapon: "🧠 Academia meets Silicon Valley hustle",
-    availability: "✅ Open for opportunities that challenge the status quo"
-};
-```
-
 </div>
 
 ---
